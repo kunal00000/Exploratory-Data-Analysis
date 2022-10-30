@@ -1,8 +1,4 @@
 # Exploratory-Data-Analysis
-# Hacktoberfest2022
-
-![image](https://user-images.githubusercontent.com/99472914/192144059-5cd0b329-f238-474b-b475-7385eaa35d05.png)
-
 
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/sj5027052/Hacktoberfest2022)
 
@@ -58,9 +54,3 @@ git push -u origin <your_branch_name_entered_before>
 * now you have successfully created a pull request
 * Make a **pull request** with a problem that you have solved  
 *  Wait for me to merge and accept the pull request . 
-
-## About HacktobeFest
-
-[Hacktoberfest22](https://hacktoberfest.com/)
-Go through the file CONTRIBUTING.md to know more
-Make some nice set of pull requests and enjoy with your reward kits. Btw hacktoberfest t shirts are quite good 😉.
