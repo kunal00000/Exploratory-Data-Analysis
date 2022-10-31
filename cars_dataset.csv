@@ -1,0 +1,207 @@
+Car Name,Price,Engine,Mileage
+Mahindra Scorpio,Rs.12.39 - 15.99 Lakh,2179 cc,16.36 kmpl
+Toyota Fortuner,Rs.28.18 - 33.95 Lakh,2694 cc,10.01 kmpl
+Maruti Swift,Rs.5.19 - 8.02 Lakh,1197 cc,21.21 kmpl
+Land Rover Range Rover,Rs.1.82 - 4.06 Cr,2993 cc,13.33 kmpl
+Hyundai Elite i20,Rs.5.59 - 9.2 Lakh,1197 cc,18.6 kmpl
+Mahindra Thar,Rs.9.59 - 9.99 Lakh,2498 cc,16.55 kmpl
+Kia Seltos,Rs.9.89 - 17.34 Lakh,1497 cc,16.8 kmpl
+Mahindra Bolero,Rs.7.98 - 8.99 Lakh,1498 cc, 
+Maruti Vitara Brezza,Rs.7.34 - 11.4 Lakh,1462 cc,17.03 kmpl
+Hyundai Creta,Rs.9.99 - 17.2 Lakh,1497 cc,16.8 kmpl
+Maruti Baleno,Rs.5.63 - 8.96 Lakh,1197 cc,21.01 kmpl
+Renault KWID,Rs.2.92 - 5.01 Lakh,799 cc,25.17 kmpl
+Ford Mustang,Rs.74.62 Lakh,4951 cc,13.0 kmpl
+Toyota Innova Crysta,Rs.15.36 - 23.02 Lakh,2694 cc,11.25 kmpl
+Maruti Dzire,Rs.5.89 - 8.8 Lakh,1197 cc,23.26 kmpl
+Honda City,Rs.9.91 - 14.31 Lakh,1497 cc,17.4 kmpl
+Tata Nexon,Rs.6.95 - 12.7 Lakh,1199 cc,17.0 kmpl
+Tata Harrier,Rs.13.69 - 20.25 Lakh,1956 cc,17.0 kmpl
+Hyundai Venue,Rs.6.69 - 11.39 Lakh,1197 cc,17.52 kmpl
+Volkswagen Polo,Rs.5.82 - 9.59 Lakh,999 cc,18.78 kmpl
+Mahindra XUV500,Rs.13.19 - 17.69 Lakh,2179 cc,15.1 kmpl
+Maruti Ertiga,Rs.7.59 - 10.13 Lakh,1462 cc,19.01 kmpl
+Hyundai Grand i10,Rs.6.01 - 6.35 Lakh,1197 cc,18.9 kmpl
+Ford EcoSport,Rs.8.04 - 11.66 Lakh,1496 cc,15.9 kmpl
+Tata Altroz,Rs.5.29 - 9.29 Lakh,1199 cc, 
+Hyundai Verna,Rs.9.3 - 15.09 Lakh,1497 cc, 
+Tata Tiago,Rs.4.6 - 6.6 Lakh,1199 cc, 
+Ford Endeavour,Rs.29.55 - 33.25 Lakh,1996 cc,13.9 kmpl
+Bugatti Chiron,Rs.19.21 - 21.21 Cr,7993 cc,5.95 kmpl
+MG Hector,Rs.12.73 - 17.72 Lakh,1451 cc,14.16 kmpl
+Mahindra XUV300,Rs.8.3 - 12.69 Lakh,1197 cc,17.0 kmpl
+Renault Duster,Rs.8.49 - 9.99 Lakh,1498 cc, 
+Maruti Wagon R,Rs.4.45 - 5.94 Lakh,998 cc,21.79 kmpl
+Renault Triber,Rs.4.99 - 6.82 Lakh,999 cc,20.0 kmpl
+Jeep Compass,Rs.16.49 - 24.99 Lakh,1368 cc,16.0 kmpl
+Maruti Alto 800,Rs.2.94 - 4.36 Lakh,796 cc,22.05 kmpl
+Maruti S-Cross,Rs.8.8 - 11.43 Lakh,1248 cc,25.1 kmpl
+Honda Civic,Rs.17.93 - 21.24 Lakh,1799 cc,16.5 kmpl
+Maruti Celerio,Rs.4.41 - 5.58 Lakh,998 cc,21.63 kmpl
+Hyundai Aura,Rs.5.79 - 9.22 Lakh,1197 cc, 
+DC Avanti,Rs.48.0 Lakh,2000 cc,10.0 kmpl
+Honda Amaze,Rs.6.09 - 9.95 Lakh,1199 cc,18.6 kmpl
+Maruti Ciaz,Rs.8.31 - 11.09 Lakh,1462 cc,20.65 kmpl
+Lamborghini Aventador,Rs.5.01 - 6.25 Cr,6498 cc,5.0 kmpl
+Land Rover Range Rover Velar,Rs.71.87 Lakh,1997 cc,15.8 kmpl
+Tata Safari Storme,Rs.11.09 - 16.43 Lakh,2179 cc,14.1 kmpl
+Maruti S-Presso,Rs.3.7 - 4.99 Lakh,998 cc,21.4 kmpl
+Jeep Wrangler,Rs.63.94 - 68.94 Lakh,1998 cc,12.1 kmpl
+Hyundai Santro,Rs.4.57 - 6.2 Lakh,1086 cc,20.3 kmpl
+Lamborghini Urus,Rs.3.1 Cr,3996 cc,8.0 kmpl
+Land Rover Range Rover Evoque,Rs.54.94 - 59.85 Lakh,1997 cc, 
+Maruti Ignis,Rs.4.89 - 7.19 Lakh,1197 cc,20.89 kmpl
+BMW X1,Rs.35.9 - 42.9 Lakh,1998 cc, 
+Ford Figo,Rs.5.39 - 7.85 Lakh,1194 cc,18.5 kmpl
+Skoda Rapid,Rs.8.81 - 14.25 Lakh,1598 cc,15.41 kmpl
+Nissan GT-R,Rs.2.12 Cr,3798 cc,9.0 kmpl
+Audi A4,Rs.41.49 - 46.96 Lakh,1395 cc,17.84 kmpl
+Toyota Yaris,Rs.8.76 - 14.18 Lakh,1496 cc,17.1 kmpl
+Maruti XL6,Rs.9.84 - 11.51 Lakh,1462 cc,19.01 kmpl
+BMW 3 Series,Rs.41.7 - 48.5 Lakh,1998 cc,16.13 kmpl
+Audi Q7,Rs.69.21 - 81.11 Lakh,2967 cc,13.55 kmpl
+Lamborghini Huracan,Rs.2.99 - 3.97 Cr,5204 cc,11.24 kmpl
+Mahindra KUV100 NXT,Rs.5.54 - 7.15 Lakh,1198 cc,18.15 kmpl
+Maruti Eeco,Rs.3.8 - 4.95 Lakh,1196 cc,16.11 kmpl
+Toyota Glanza,Rs.6.97 - 8.9 Lakh,1197 cc,21.01 kmpl
+Hyundai Xcent,Rs.5.81 - 8.75 Lakh,1197 cc,20.14 kmpl
+Tata Hexa,Rs.13.7 - 19.27 Lakh,2179 cc,17.6 kmpl
+Porsche 718,Rs.85.95 - 89.95 Lakh,1988 cc,9.0 kmpl
+Tata Tigor,Rs.5.75 - 7.49 Lakh,1199 cc,20.3 kmpl
+Audi A8,Rs.1.56 Cr,2995 cc, 
+Audi A6,Rs.54.42 - 59.42 Lakh,1984 cc, 
+Mahindra TUV 300,Rs.8.54 - 10.55 Lakh,1493 cc,18.49 kmpl
+Mahindra Marazzo,Rs.9.99 - 14.76 Lakh,1497 cc,17.3 kmpl
+Jaguar XJ,Rs.1.11 Cr,2993 cc,14.47 kmpl
+Rolls Royce Ghost,Rs.5.25 - 6.83 Cr,6592 cc,10.2 kmpl
+Ford Freestyle,Rs.5.89 - 8.19 Lakh,1194 cc,18.5 kmpl
+Honda Jazz,Rs.7.45 - 9.4 Lakh,1199 cc,18.2 kmpl
+Porsche 911,Rs.1.62 - 1.99 Cr,2981 cc, 
+Volkswagen Vento,Rs.8.86 - 13.29 Lakh,998 cc,16.09 kmpl
+Hyundai Grand i10 Nios,Rs.5.04 - 8.04 Lakh,1197 cc,20.7 kmpl
+Audi Q5,Rs.50.21 - 56.21 Lakh,1968 cc,17.01 kmpl
+Skoda Octavia,Rs.15.99 - 36.0 Lakh,1395 cc,16.7 kmpl
+BMW Z4,Rs.66.0 - 80.5 Lakh,1998 cc,14.37 kmpl
+Hyundai Elantra,Rs.18.49 - 20.39 Lakh,1999 cc,14.59 kmpl
+Land Rover Discovery,Rs.75.6 - 88.0 Lakh,1999 cc,18.0 kmpl
+Rolls-Royce Cullinan,Rs.6.95 Cr,6750 cc,9.5 kmpl
+BMW 7 Series,Rs.1.35 - 2.44 Cr,2993 cc,17.66 kmpl
+Mercedes-Benz C-Class,Rs.40.9 - 75.0 Lakh,1950 cc,11.9 kmpl
+Toyota Vellfire,Rs.79.5 Lakh,2494 cc, 
+Jaguar XF,Rs.49.78 - 61.39 Lakh,1999 cc,19.33 kmpl
+Land Rover Range Rover Sport,Rs.87.02 Lakh - 1.0 Cr,1997 cc,12.65 kmpl
+Volvo XC90,Rs.80.9 Lakh - 1.42 Cr,1969 cc,17.2 kmpl
+Audi S5,Rs.72.65 Lakh,2995 cc,12.28 kmpl
+Nissan Sunny,Rs.7.07 - 9.93 Lakh,1498 cc,16.95 kmpl
+BMW X5,Rs.73.3 - 84.4 Lakh,2993 cc,13.38 kmpl
+Nissan Kicks,Rs.9.55 - 13.69 Lakh,1498 cc,14.23 kmpl
+Jeep Grand Cherokee,Rs.78.88 Lakh - 1.14 Cr,3604 cc,12.8 kmpl
+Mahindra Alturas G4,Rs.28.69 - 31.69 Lakh,2157 cc,12.35 kmpl
+Honda WRV,Rs.8.08 - 10.48 Lakh,1199 cc,17.5 kmpl
+Hyundai Tucson,Rs.18.76 - 26.97 Lakh,1999 cc,13.03 kmpl
+Datsun redi-GO,Rs.2.79 - 4.37 Lakh,799 cc,22.7 kmpl
+Audi Q8,Rs.1.33 Cr,2995 cc, 
+BMW 5 Series,Rs.55.4 - 68.4 Lakh,1998 cc,15.56 kmpl
+Jaguar XE,Rs.44.98 - 46.33 Lakh,1999 cc, 
+BMW X7,Rs.92.5 Lakh - 1.06 Cr,2993 cc,13.38 kmpl
+Ford Aspire,Rs.5.99 - 8.34 Lakh,1194 cc,18.5 kmpl
+Jaguar F-TYPE,Rs.90.93 Lakh - 2.8 Cr,1997 cc,15.38 kmpl
+Bajaj Qute (RE60),Rs.2.48 - 2.78 Lakh,216 cc,35.0 kmpl
+Volvo XC40,Rs.39.9 Lakh,1969 cc, 
+Skoda Superb,Rs.23.99 - 33.49 Lakh,1798 cc,14.12 kmpl
+Datsun GO,Rs.3.74 - 6.18 Lakh,1198 cc,19.83 kmpl
+Force Gurkha,Rs.9.75 - 13.3 Lakh,2596 cc,17.0 kmpl
+Porsche Cayenne,Rs.1.19 - 1.92 Cr,2995 cc, 
+Ferrari Portofino,Rs.3.5 Cr,3855 cc,9.0 kmpl
+Toyota Prius,Rs.45.09 Lakh,1798 cc,26.27 kmpl
+Porsche Macan,Rs.69.98 - 85.12 Lakh,1984 cc, 
+Nissan Micra,Rs.6.62 - 8.12 Lakh,1198 cc,19.15 kmpl
+Toyota Camry,Rs.37.88 Lakh,2487 cc,19.16 kmpl
+BMW X3,Rs.56.0 - 60.9 Lakh,1995 cc,18.56 kmpl
+Skoda Kodiaq,Rs.33.99 - 36.78 Lakh,1968 cc,16.25 kmpl
+Mitsubishi Pajero Sport,Rs.27.42 - 30.0 Lakh,2477 cc,13.5 kmpl
+Mercedes-Benz E-Class,Rs.59.08 Lakh - 1.5 Cr,1991 cc,15.0 kmpl
+Rolls Royce Wraith,Rs.6.22 - 7.21 Cr,6592 cc,10.2 kmpl
+Volkswagen T-Roc,Rs.19.99 Lakh,1498 cc, 
+Mercedes-Benz S-Class,Rs.1.35 - 2.73 Cr,2925 cc,13.5 kmpl
+Honda CR-V,Rs.28.27 Lakh,1997 cc,14.4 kmpl
+Land Rover Defender,Rs.69.99 - 87.1 Lakh,1997 cc, 
+Renault Captur,Rs.9.49 - 12.99 Lakh,1498 cc,13.87 kmpl
+Datsun GO Plus,Rs.4.12 - 6.8 Lakh,1198 cc,19.72 kmpl
+Audi A5,Rs.60.61 - 69.48 Lakh,1968 cc,19.2 kmpl
+Volvo S90,Rs.58.9 Lakh,1969 cc,18.0 kmpl
+Audi A3 cabriolet,Rs.50.59 Lakh,1395 cc,19.2 kmpl
+Mercedes-Benz GLE,Rs.73.7 Lakh - 1.25 Cr,1950 cc, 
+Jaguar F-PACE,Rs.64.32 - 64.78 Lakh,1999 cc,16.38 kmpl
+Porsche Panamera,Rs.1.89 - 2.52 Cr,3996 cc,10.75 kmpl
+Mercedes-Benz V-Class,Rs.68.4 Lakh - 1.46 Cr,2143 cc,16.0 kmpl
+Volvo S60,Rs.38.5 - 56.02 Lakh,1969 cc,27.03 kmpl
+BMW X4,Rs.62.4 - 67.9 Lakh,1995 cc,16.78 kmpl
+Volvo XC60,Rs.59.9 Lakh,1969 cc,11.2 kmpl
+Mini Cooper Convertible,Rs.38.9 Lakh,1998 cc,16.7 kmpl
+Bentley Continental,Rs.3.29 - 4.42 Cr,3993 cc,12.8 kmpl
+Mercedes-Benz G-Class,Rs.1.5 - 2.19 Cr,2925 cc,8.13 kmpl
+Mahindra Bolero Power Plus,Rs.7.61 - 8.99 Lakh,1493 cc,16.5 kmpl
+BMW M Series,Rs.1.54 Cr,4395 cc,9.8 kmpl
+Hyundai Kona Electric,Rs.23.71 - 23.9 Lakh, ,
+Ferrari 812 Superfast,Rs.5.2 Cr,6496 cc,6.7 kmpl
+ISUZU MUX,Rs.27.34 - 29.31 Lakh,2999 cc,13.8 kmpl
+BMW 6 Series,Rs.64.9 - 75.9 Lakh,1998 cc,14.28 kmpl
+BMW M2,Rs.83.4 Lakh,2979 cc,10.63 kmpl
+Land Rover Discovery Sport,Rs.57.06 - 60.89 Lakh,1999 cc, 
+Mercedes-Benz GLS,Rs.87.76 - 88.2 Lakh,2996 cc,8.9 kmpl
+Maserati Ghibli,Rs.1.35 - 1.52 Cr,2979 cc,16.94 kmpl
+Aston Martin DB11,Rs.3.97 Cr,5204 cc,6.0 kmpl
+Lexus LS,Rs.1.82 - 1.87 Cr,3456 cc,15.4 kmpl
+Bentley Mulsanne,Rs.5.55 Cr,6752 cc,10.1 kmpl
+Mercedes-Benz GLC,Rs.52.75 - 57.75 Lakh,1991 cc, 
+Volkswagen Tiguan Allspace,Rs.33.12 Lakh,1984 cc, 
+Fiat Linea,Rs.7.82 - 10.76 Lakh,1368 cc,14.9 kmpl
+Maserati Quattroporte,Rs.1.71 - 2.11 Cr,2979 cc,11.76 kmpl
+Bentley Bentayga,Rs.3.78 - 3.85 Cr,3998 cc,11.11 kmpl
+Bentley Flying Spur,Rs.3.21 - 3.41 Cr,3993 cc,12.5 kmpl
+Mini Countryman,Rs.37.4 - 42.4 Lakh,1995 cc,19.19 kmpl
+Mini Clubman,Rs.41.2 Lakh,1998 cc,13.79 kmpl
+Mitsubishi Outlander,Rs.26.93 Lakh,2360 cc,10.2 kmpl
+Mahindra TUV 300 Plus,Rs.9.92 - 11.42 Lakh,2179 cc,18.49 kmpl
+Rolls Royce Dawn,Rs.7.3 - 7.85 Cr,6598 cc,9.8 kmpl
+Lexus NX,Rs.54.9 - 60.6 Lakh,2499 cc,18.32 kmpl
+Maserati Levante,Rs.1.49 - 1.64 Cr,2979 cc,12.0 kmpl
+Fiat Avventura,Rs.7.11 - 8.76 Lakh,1248 cc,20.5 kmpl
+Mini Cooper 3 DOOR,Rs.29.9 - 43.9 Lakh,1496 cc,20.7 kmpl
+Ferrari GTC4Lusso,Rs.4.26 - 4.97 Cr,3855 cc,4.0 kmpl
+Fiat Abarth Punto,Rs.9.67 Lakh,1368 cc,16.3 kmpl
+MG ZS EV,Rs.20.88 - 23.58 Lakh, , 
+Lexus ES,Rs.51.9 - 56.95 Lakh,2487 cc,22.37 kmpl
+Lexus RX,Rs.99.0 Lakh,3456 cc,18.8 kmpl
+Mercedes-Benz AMG GT,Rs.2.27 - 2.32 Cr,3982 cc,12.65 kmpl
+Aston Martin Rapide,Rs.3.29 Cr,5935 cc,10.9 kmpl
+Fiat Punto EVO,Rs.5.35 - 7.47 Lakh,1172 cc,15.8 kmpl
+Mahindra E Verito,Rs.9.12 - 9.46 Lakh, , 
+Mahindra Bolero Pik-Up,Rs.7.84 - 8.12 Lakh,2523 cc, 
+Maserati GranTurismo,Rs.2.25 - 2.51 Cr,4691 cc,10.0 kmpl
+Lexus LC 500h,Rs.1.96 Cr,3456 cc, 
+Mercedes-Benz CLS,Rs.84.7 Lakh,1950 cc,19.0 kmpl
+Ferrari 488,Rs.4.4 Cr,3902 cc,7.75 kmpl
+Lexus LX,Rs.2.32 Cr,5663 cc,6.9 kmpl
+Fiat Abarth Avventura,Rs.9.89 Lakh,1368 cc,17.1 kmpl
+Nissan Micra Active,Rs.5.25 - 5.99 Lakh,1198 cc,18.97 kmpl
+Fiat Avventura Urban Cross,Rs.6.77 - 9.77 Lakh,1248 cc,20.5 kmpl
+Tata Yodha Pickup,Rs.6.94 - 7.49 Lakh,2956 cc, 
+Nissan Terrano,Rs.9.99 - 14.64 Lakh,1598 cc,13.04 kmpl
+Tata Tigor EV,Rs.9.54 - 9.85 Lakh, , 
+Tata Nexon EV,Rs.13.99 - 15.99 Lakh, , 
+Isuzu D-Max V-Cross,Rs.16.54 - 19.99 Lakh,2499 cc,12.4 kmpl
+Kia Carnival,Rs.24.95 - 33.95 Lakh,2199 cc, 
+Jeep Compass Trailhawk,Rs.26.8 - 27.6 Lakh,1956 cc,16.3 kmpl
+Mercedes-Benz GLA Class,Rs.32.33 - 41.51 Lakh,2143 cc,17.9 kmpl
+Volvo S60 Cross Country,Rs.44.26 Lakh,2400 cc,19.6 kmpl
+BMW 3 Series GT,Rs.50.7 Lakh,1998 cc,15.34 kmpl
+Mercedes-Benz GLC Coupe,Rs.62.7 - 63.7 Lakh,1950 cc,12.74 kmpl
+Volvo V90 Cross Country,Rs.65.31 Lakh,1969 cc,12.5 kmpl
+Mercedes-Benz E-Class All-Terrain,Rs.75.0 Lakh,1950 cc,12.6 kmpl
+Audi RS5,Rs.1.11 Cr,2894 cc,11.05 kmpl
+Porsche Cayenne Coupe,Rs.1.31 - 1.97 Cr,2995 cc, 
+Mercedes-Benz AMG GT 4-Door Coupe,Rs.2.42 Cr,3998 cc, 
+Maserati GranCabrio,Rs.2.46 - 2.69 Cr,4691 cc,10.2 kmpl
+Lamborghini Huracan EVO,Rs.3.22 - 4.1 Cr,5204 cc,7.19 kmpl
